@@ -1,2 +1,4 @@
 # Teste
- Primeiro repositorio do curso de GIT 
+ Primeiro repositório do curso de GIT.
+
+ Apenas testes
