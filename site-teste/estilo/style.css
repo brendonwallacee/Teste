@@ -128,3 +128,30 @@ body {
     margin-left: 620px;
     position: relative;
 }
+
+#retorno:hover {
+        box-shadow:3px 3px 5px #ffffffa4;
+        
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      width: 550px;
+    }
+    main {
+        width: 550px;
+    }
+
+    header {
+        width: 550px;
+    }
+    #foto {
+        margin-right: 0px;
+     }
+    .navbar ul {
+        text-align: center;
+        font-size: medium;
+    }
+    
+  }
