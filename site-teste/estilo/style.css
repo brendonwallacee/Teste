@@ -155,4 +155,17 @@ body {
         transform: translateY(0px);
     }
 
+    .navbar ul { 
+        font-size: 16px;
+    }
+    
+    .navbar ul li a{
+        padding:2px 2px; 
+    
+    }
+
+    .navbar ul li {
+        margin: 5px;
+    
+    }
 }
