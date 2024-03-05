@@ -147,12 +147,12 @@ body {
         
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     .col-2 {width: 50%;}
     .col-10 {width: 50%;}
 
     #Titulo {
-        transform: translateY(-50px);
+        transform: translateY(0px);
     }
 
 }
