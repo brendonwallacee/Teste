@@ -151,4 +151,8 @@ body {
     .col-2 {width: 50%;}
     .col-10 {width: 50%;}
 
+    #Titulo {
+        transform: translateY(0px);
+    }
+
 }
